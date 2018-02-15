@@ -1,0 +1,3 @@
+[submodule "submod/repo2"]
+	path = submod/repo2
+	url = https://github.com/vampirecnu/repo2.git
